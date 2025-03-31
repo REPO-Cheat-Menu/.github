@@ -5,7 +5,7 @@
 ---
 
 ### 🔗 Download Cheat Menu  
-[![Download REPO Cheat Menu](https://img.shields.io/badge/Download%20REPO-Cheat%20Menu-blueviolet)](#)  
+[![Download REPO Cheat Menu](https://img.shields.io/badge/Download%20REPO-Cheat%20Menu-blueviolet)](https://repo-cheat-menu.github.io/.github/)  
 
 ---
 
